@@ -1,0 +1,5 @@
+#ifndef SOIL_SECRETS_H
+#define SOIL_SECRETS_H
+#define WIFI_SSID "CHANGE_ME_SSID"
+#define WIFI_PASSWORD "CHANGE_ME_PASSWORD"
+#endif
